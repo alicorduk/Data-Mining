@@ -1,4 +1,7 @@
 Sentiment Analysis and Deep Learning Project
+![Company Logo](https://github.com/alicorduk/Data-Mining/blob/main/Final%20Synthesis%20Assignment/amazon-logo.jpg)
+
+
 📖 Overview
 This project involves analyzing a dataset of Amazon reviews to build predictive models for sentiment classification. Using a combination of machine learning and deep learning techniques, the aim is to evaluate and compare model performance for identifying positive and negative sentiments in review texts.
 
