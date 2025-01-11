@@ -1,4 +1,5 @@
-Sentiment Analysis and Deep Learning Project
+## Sentiment Analysis and Deep Learning Project
+
 ![Company Logo](https://github.com/alicorduk/Data-Mining/blob/main/Final%20Synthesis%20Assignment/amazon-logo.jpg)
 
 
